@@ -1,3 +1,4 @@
 pomidor
 cebula
 kiwi
+olej
