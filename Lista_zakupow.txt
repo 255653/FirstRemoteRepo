@@ -2,4 +2,5 @@ pomidor
 cebula
 kiwi
 olej
-mleko
+mleko 
+bulka
